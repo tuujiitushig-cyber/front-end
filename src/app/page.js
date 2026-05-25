@@ -132,7 +132,7 @@ export default function App() {
     const fullName = `${s.firstname} ${s.lastname}`.toLowerCase();
     const job = (s.job || s["🧑‍💻job"] || "").toLowerCase();
     return fullName.includes(q) || job.includes(q);
-  });Nanum_Pen_Script
+  })
 
   return (
     <div
@@ -229,7 +229,7 @@ export default function App() {
 
       {filtered.length === 0 && (
         <p style={{ textAlign: "center", color: "#94a3b8", marginTop: 48, fontSize: 15 }}>
-          No results found for "{query}"
+          No results found for {query}
         </p>
       )}
     </div>
