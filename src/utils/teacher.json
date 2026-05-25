@@ -1,0 +1,790 @@
+[
+    {
+        "id":1,
+        "firstname": "Temuujin",
+        "lastname": "Idk",
+        "🧑‍💻job": "Frontend it teacher",
+        "alive": "true",
+        "image":"https://blogger.googleusercontent.com/img/a/AVvXsEjvAoSEy89m_YgQ2D_dJg263ijZRBBtLDzpE6epravgWAP1Fpjr1qCH6HCiIVIThrzsgGbz8lU2ccPnu0RJX4NwHT7t4JenmAKxIJaPM27Ujwb9ahz5UiRujywQSeYyxrVvyFf6B0N19ClqB7qxwcQTC5KvJwAPKzqWUwYHemC0ejnYNT6DXrDgFYNB=s16000",
+        "items": [
+            {
+                "id":"1",
+                "name":"ok"
+            }
+        ],
+        "height": 170 
+    },
+    {
+        "id":2,
+        "firstname": "Barkhasbold",
+        "lastname": "idk",
+        "🧑‍💻job": "Design it teacher",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYoMdrOgOgZWOCfW0RpcxP4vzm9Tg7xixYnQ&s",
+        "alive": "true",
+        "items": [
+            {
+                "id":"2",
+                "name":"ok"
+            }
+        ],
+        "height": 170
+    },
+    {
+        "id":3,
+        "firstname": "Batkhishig",
+        "lastname": "idk",
+        "🧑‍💻job": "Chemistry teacher",
+        "alive": "true",
+        "image":"https://people.com/thmb/mUyT5andhQdyaf7CSGqSWWZxdXw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/latto-cosmopolitan-magazine-062023-4-1c7a458d2efe4345acc172b73fae5c9c.jpg",
+        "🎶items": [
+            {
+                "id":"3",
+                "name":"ok"
+            }
+        ],
+        "height": 170 
+    },
+    {
+        "id":4,
+        "firstname": "REnchinhorloo",
+        "lastname": "idk",
+        "🧑‍💻job": "Mathematics teachers",
+        "alive": "true",
+        "image":"https://assets.mycast.io/actor_images/actor-kendrick-lamar-757194_large.jpg",
+        "🎶items": [
+            {
+                "id":"4",
+                "name":"ok"
+            }
+        ],
+        "height": 170 
+    },
+    {
+        "id":5,
+        "firstname": "Lhagvajargal",
+        "lastname": "idk",
+        "🧑‍💻job": "English teacher",
+        "alive": "true",
+        "image":"https://i.guim.co.uk/img/media/85b5c0ba3d6036d58729076b5ef59de798ee2937/0_43_3465_4157/master/3465.jpg?width=465&dpr=1&s=none&crop=none",
+        "🎶items": [
+            {
+                "id":"5",
+                "name":"ok"
+            }
+        ],
+        "height": 170  
+    },
+    {
+        "id":6,
+        "firstname": "Dul",
+        "lastname": "idk",
+        "🧑‍💻job": "english counsil teacher",
+        "alive": "true",
+        "image":"https://www.usnews.com/object/image/00000199-a02f-d70c-aff9-a4bf5be80000/gettyimages-2215543128.jpg?update-time=1759329142468&size=responsive640",
+        "🎶items": [
+            {
+                "id":"6",
+                "name":"ok"
+            }
+        ],
+        "height": 170  
+    },
+    {
+        "id":7,
+        "firstname": "Lavenia",
+        "lastname": "idk",
+        "🧑‍💻job": "Englis teacher",
+        "image":"https://castingfrontier.com/wp-content/uploads/2021/03/shutterstock_1495410191-scaled.jpg",
+        "alive": "true",
+        "🎶items": [
+            {
+                "id":"7",
+                "name":"ok"
+            }
+        ],
+        "height": 170 
+    },
+    {
+        "id":8,
+        "firstname": "Cantsalnym",
+        "lastname": "idk",
+        "🧑‍💻job": "HIstory,Society teacher",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM_wx0sd1t7Ee_4WG7wknZ22wG8L0LEwPZxw&s",
+        "alive": "true",
+        "🎶items": [
+            {
+                "id":"8",
+                "name":"ok"
+            }
+        ],
+        "height": 170 
+    },
+    {
+        "id":9,
+        "firstname": "Javzndulam",
+        "lastname": "idk",
+        "🧑‍💻job": "Mongolian,litature teacher",
+        "image":"https://compote.slate.com/images/fd268400-c348-4021-82bb-3d0a1962e257.jpg",
+        "alive": "true",
+        "🎶items": [
+            {
+                "id":"9",
+                "name":"ok"
+            }
+        ],
+        "height": 170 
+    },
+    {
+        "id":10,
+        "firstname": "Adiakhuu",
+        "lastname": "idk",
+        "🧑‍💻job": "Mathemathics teacher",
+        "image":"https://s.yimg.com/ny/api/res/1.2/ELzvKGetxOsFg22b8o11NQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQxMw--/https://media.zenfs.com/en/lovemoney_uk_264/dabf2cd25331b1d4fb12c2606387ba92",
+        "alive": "true",
+        "🎶items": [
+            {
+                "id":"10",
+                "name":"ok"
+            }
+        ],
+        "height": 170 
+    },
+    {
+        "id":11,
+        "firstname": "Sod-od",
+        "lastname": "G",
+        "🧑‍💻job": "Prenciple",
+        "image":"https://i.pinimg.com/564x/d1/c8/52/d1c85279e7c587ad7cbf6d920fc9794a.jpg",
+        "alive": "true",
+        "🎶items": [
+            {
+                "id":"11",
+                "name":"ok"
+            }
+        ],
+        "height": 170 
+    },
+    {
+        "id":12,
+        "firstname": "Namuuna",
+        "lastname": "idk",
+        "🧑‍💻job": "Social worker",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrqFrCOT0KFujgu3IbYomSrFGhAEDjWBHgPQ&s",
+        "alive": "true",
+        "🎶items": [
+            {
+                "id":"12",
+                "name":"ok"
+            }
+        ],
+        "height": 170
+    },
+    {
+        "id":13,
+        "firstname": "Gerel-tuya",
+        "lastname": "Och",
+        "🧑‍💻job": "Therapist",
+        "alive": "true",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFTkMD3aRaJ4wKQ4lj9MaJ9-sJevT618t3lw&s",
+        "items": [
+            {
+                "id":"13",
+                "name":"ok"
+            }
+        ],
+        "height": 170
+    },
+    {
+        "id":14,
+        "firstname": "OYun-tuya",
+        "lastname": "b",
+        "🧑‍💻job": "Mathemathics teacher",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH_BNINzjtaLx4hXwYGDAnca-5cxhFHj9F6g&s",
+        "alive": "true",
+        "items": [
+            {
+                "id":"14",
+                "name":"ok"
+            }
+        ],
+        "height": 170
+    },
+    {
+        "id":15,
+        "firstname": "Usuhbaatar",
+        "lastname": "T",
+        "🧑‍💻job": "IT teacher",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUTMTOQO8FPckM9mnJaruMaDoXkK0YnkRRKA&s",
+        "alive": "true",
+        "items": [
+            {
+                "id":"15",
+                "name":"ok"
+            }
+        ],
+        "height": 170  
+    },
+    {
+        "id":16,
+        "firstname": "erdenetsetseg",
+        "lastname": "A",
+        "🧑‍💻job": "PE teacher",
+        "alive": "true",
+        "image":"https://img.buzzfeed.com/buzzfeed-static/static/2019-07/30/18/asset/5f84084138f0/sub-buzz-1590-1564512334-1.jpg?crop=614:852;33,51&downsize=900:*&output-format=auto&output-quality=auto",
+        "items": [
+            {
+                "id":"16",
+                "name":"ok"
+            }
+        ],
+        "height": 170 
+    },
+    {
+        "id":17,
+        "firstname": "Munkh-orgil",
+        "lastname": "A",
+        "🧑‍💻job": "Phyton teacher",
+        "image":"https://i0.wp.com/www.muscleandfitness.com/wp-content/uploads/2019/03/jason-statham-1109.jpg?quality=86&strip=all",
+        "alive": "true",
+        "items": [
+            {
+                "id":"17",
+                "name":"ok"
+            }
+        ],
+        "height": 170 
+    },
+    {
+        "id":18,
+        "firstname": "TAmir",
+        "lastname": "A",
+        "🧑‍💻job": "Manager",
+        "alive": "true",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyxYWm58TOM9AvDc7XiKr-4c9lKnuUz2JnbQ&s",
+        "items": [
+            {
+                "id":"18",
+                "name":"ok"
+            }
+        ],
+        "height": 170
+    },
+    {
+        "id":19,
+        "firstname": "Ohinoo",
+        "lastname": "A",
+        "🧑‍💻job": "Kitchen",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPKE-1CpTDLb952RvUAH628wqHc3bLpmDPCQ&s",
+        "alive": "true",
+        "items": [
+            {
+                "id":"19",
+                "name":"ok"
+            }
+        ],
+        "height": 170
+    },
+    {
+        "id":20,
+        "firstname": "Orosoo",
+        "lastname": "A",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzHSxtm52LGIEZv8OD0xljXnvXhPhPbg5nMw&s",
+        "🧑‍💻job": "Kitchen",
+        "alive": "true",
+        "items": [
+            {
+                "id":"20",
+                "name":"ok"
+            }
+        ],
+        "height": 170
+    },
+    {
+        "id":21,
+        "firstname": "Gan-khuleg",
+        "lastname": "A",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR91leP4g6Re3wSKAJxqNmRyVfw7-XpeQB7vQ&s",
+        "🧑‍💻job": "NO idea",
+        "alive": "true",
+        "items": [
+            {
+                "id":"21",
+                "name":"handsome"
+            }
+        ],
+        "height": 170 
+    },
+    {
+        "id":22,
+        "firstname": "enkhtur",
+        "lastname": "A",
+        "🧑‍💻job": "NO idea",
+        "image":"https://hips.hearstapps.com/hmg-prod/images/irish-actors-saoirse-ronan-67aa4c373077d.jpg?crop=0.606xw:0.908xh;0.185xw,0.0923xh",
+        "alive": "true",
+        "items": [
+            {
+                "id":"22",
+                "name":"ok"
+            }
+        ],
+        "height": 170
+    },
+    {
+        "id":23,
+        "firstname": "azjargal",
+        "lastname": "A",
+        "🧑‍💻job": "no idea",
+        "alive": "true",
+        "image":"https://image.okayplayer.com/642142.webp?imageId=642142&width=960&height=728&format=jpg",
+        "items": [
+            {
+                "id":"23",
+                "name":"ok"
+            }
+        ],
+        "height": 170 
+    },
+    {
+        "id":24,
+        "firstname": "Batsetseg",
+        "lastname": "A",
+        "🧑‍💻job": "no idea",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI1MLRrqNkKlpF1FUXKduEyHLw__fi860OxQ&s",
+        "alive": "true",
+        "items": [
+            {
+                "id":"24",
+                "name":"ok"
+            }
+        ],
+        "height": 170  
+    },
+    {
+        "id":25,
+        "firstname": "Urjinhand",
+        "lastname": "A",
+        "🧑‍💻job": "no idea",
+        "alive": "true",
+        "image":"https://www.thefashionisto.com/wp-content/uploads/2023/08/Ryan-Phillippe-Blonde-Actor.jpg",
+        "items": [
+            {
+                "id":"25",
+                "name":"ok"
+            }
+        ],
+        "height": 170 
+    },
+    {
+        "id":26,
+        "firstname": "lhkamjav",
+        "lastname": "A",
+        "🧑‍💻job": "NO idea",
+        "alive": "true",
+        "image":"https://247wallst.com/wp-content/uploads/2017/09/jack-nicholson1.jpg",
+        "items": [
+            {
+                "id":"26",
+                "name":"ok"
+            }
+        ],
+        "height": 170
+    },
+    {
+        "id":27,
+        "firstname": "ok",
+        "lastname": "A",
+        "🧑‍💻job": "student",
+        "image":"",
+        "alive": "true",
+        "items": [
+            {
+                "id":"27",
+                "name":"ok"
+            }
+        ],
+        "height": 170 
+    },
+    {
+        "id":1,
+        "firstname": "Anand",
+        "lastname": "A",
+        "job": "student",
+        "alive": "true",
+        "items": [
+            {
+                "id":"1",
+                "name":"ok"
+            }
+        ],
+        "height": 170 
+    },
+    {
+        "id":2,
+        "firstname": "Anand",
+        "lastname": "B",
+        "job": "student",
+        "alive": "true",
+        "items": [
+            {
+                "id":"2",
+                "name":"ok"
+            }
+        ],
+        "height": 170
+    },
+    {
+        "id":3,
+        "firstname": "Ahzaya",
+        "lastname": "idk",
+        "job": "student",
+        "alive": "true",
+        "items": [
+            {
+                "id":"3",
+                "name":"ok"
+            }
+        ],
+        "height": 170 
+    },
+    {
+        "id":4,
+        "firstname": "Ariuna",
+        "lastname": "idk",
+        "job": "student",
+        "alive": "true",
+        "items": [
+            {
+                "id":"4",
+                "name":"ok"
+            }
+        ],
+        "height": 170 
+    },
+    {
+        "id":5,
+        "firstname": "arvii",
+        "lastname": "idk",
+        "job": "student",
+        "alive": "true",
+        "items": [
+            {
+                "id":"5",
+                "name":"ok"
+            }
+        ],
+        "height": 170  
+    },
+    {
+        "id":6,
+        "firstname": "Bataa",
+        "lastname": "idk",
+        "job": "student",
+        "alive": "true",
+        "items": [
+            {
+                "id":"6",
+                "name":"ok"
+            }
+        ],
+        "height": 170  
+    },
+    {
+        "id":7,
+        "firstname": "Manlai",
+        "lastname": "idk",
+        "job": "student",
+        "alive": "true",
+        "items": [
+            {
+                "id":"7",
+                "name":"ok"
+            }
+        ],
+        "height": 170 
+    },
+    {
+        "id":8,
+        "firstname": "Purvee",
+        "lastname": "idk",
+        "job": "student",
+        "alive": "true",
+        "items": [
+            {
+                "id":"8",
+                "name":"ok"
+            }
+        ],
+        "height": 170 
+    },
+    {
+        "id":9,
+        "firstname": "Munkhnar",
+        "lastname": "idk",
+        "job": "student",
+        "alive": "true",
+        "items": [
+            {
+                "id":"9",
+                "name":"ok"
+            }
+        ],
+        "height": 170 
+    },
+    {
+        "id":10,
+        "firstname": "Zolboo",
+        "lastname": "Azjargal",
+        "job": "student",
+        "alive": "true",
+        "items": [
+            {
+                "id":"10",
+                "name":"ok"
+            }
+        ],
+        "height": 170 
+    },
+    {
+        "id":11,
+        "firstname": "Chingun",
+        "lastname": "G",
+        "job": "student",
+        "alive": "true",
+        "items": [
+            {
+                "id":"11",
+                "name":"ok"
+            }
+        ],
+        "height": 170 
+    },
+    {
+        "id":12,
+        "firstname": "enkhbileg",
+        "lastname": "idk",
+        "job": "student",
+        "alive": "true",
+        "items": [
+            {
+                "id":"12",
+                "name":"ok"
+            }
+        ],
+        "height": 170
+    },
+    {
+        "id":13,
+        "firstname": "tenuun",
+        "lastname": "Och",
+        "job": "student",
+        "alive": "true",
+        "items": [
+            {
+                "id":"13",
+                "name":"ok"
+            }
+        ],
+        "height": 170
+    },
+    {
+        "id":14,
+        "firstname": "tselmeg",
+        "lastname": "b",
+        "job": "student",
+        "alive": "true",
+        "items": [
+            {
+                "id":"14",
+                "name":"ok"
+            }
+        ],
+        "height": 170
+    },
+    {
+        "id":15,
+        "firstname": "Temuulen",
+        "lastname": "T",
+        "job": "student",
+        "alive": "true",
+        "items": [
+            {
+                "id":"15",
+                "name":"ok"
+            }
+        ],
+        "height": 170  
+    },
+    {
+        "id":16,
+        "firstname": "Munkhchimeg",
+        "lastname": "A",
+        "job": "student",
+        "alive": "true",
+        "items": [
+            {
+                "id":"16",
+                "name":"ok"
+            }
+        ],
+        "height": 170 
+    },
+    {
+        "id":17,
+        "firstname": "Tselmuun",
+        "lastname": "A",
+        "job": "student",
+        "alive": "true",
+        "items": [
+            {
+                "id":"17",
+                "name":"ok"
+            }
+        ],
+        "height": 170 
+    },
+    {
+        "id":18,
+        "firstname": "Nyamaargachaa",
+        "lastname": "A",
+        "job": "student",
+        "alive": "true",
+        "items": [
+            {
+                "id":"18",
+                "name":"ok"
+            }
+        ],
+        "height": 170
+    },
+    {
+        "id":19,
+        "firstname": "Margad",
+        "lastname": "A",
+        "job": "student",
+        "alive": "true",
+        "items": [
+            {
+                "id":"19",
+                "name":"ok"
+            }
+        ],
+        "height": 170
+    },
+    {
+        "id":20,
+        "firstname": "Tergel",
+        "lastname": "A",
+        "job": "student",
+        "alive": "true",
+        "items": [
+            {
+                "id":"20",
+                "name":"ok"
+            }
+        ],
+        "height": 170
+    },
+    {
+        "id":21,
+        "firstname": "Enkhtushig",
+        "lastname": "A",
+        "job": "waiter",
+        "alive": "true",
+        "items": [
+            {
+                "id":"21",
+                "name":"handsome"
+            }
+        ],
+        "height": 170 
+    },
+    {
+        "id":22,
+        "firstname": "Erkhembileg",
+        "lastname": "A",
+        "job": "student",
+        "alive": "true",
+        "items": [
+            {
+                "id":"22",
+                "name":"ok"
+            }
+        ],
+        "height": 170
+    },
+    {
+        "id":23,
+        "firstname": "Nymka",
+        "lastname": "A",
+        "job": "student",
+        "alive": "true",
+        "items": [
+            {
+                "id":"23",
+                "name":"ok"
+            }
+        ],
+        "height": 170 
+    },
+    {
+        "id":24,
+        "firstname": "Munkhbold",
+        "lastname": "A",
+        "job": "student",
+        "alive": "true",
+        "items": [
+            {
+                "id":"24",
+                "name":"ok"
+            }
+        ],
+        "height": 170  
+    },
+    {
+        "id":25,
+        "firstname": "Zorigt",
+        "lastname": "A",
+        "job": "student",
+        "alive": "true",
+        "items": [
+            {
+                "id":"25",
+                "name":"ok"
+            }
+        ],
+        "height": 170 
+    },
+    {
+        "id":26,
+        "firstname": "Urankhishig",
+        "lastname": "A",
+        "job": "student",
+        "alive": "true",
+        "items": [
+            {
+                "id":"26",
+                "name":"ok"
+            }
+        ],
+        "height": 170
+    },
+    {
+        "id":27,
+        "firstname": "ok",
+        "lastname": "A",
+        "job": "student",
+        "alive": "true",
+        "items": [
+            {
+                "id":"27",
+                "name":"ok"
+            }
+        ],
+        "height": 170 
+    }
+    
+
+
+
+]
+
